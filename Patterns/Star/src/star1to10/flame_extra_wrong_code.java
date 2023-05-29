@@ -2,7 +2,7 @@ package star1to10;
 
 public class flame_extra_wrong_code {
     public static void main(String[] args) {
-        int rows = 5;
+        int rows = 9;
         starPrint(rows);
     }
 
