@@ -1,6 +1,6 @@
 package star11to20;
 
-public class Horizontal_Fat_V {
+public class Horizontal_Fat_V12 {
     public static void main(String[] args) {
         int rows =5;
         starPrint(rows);
