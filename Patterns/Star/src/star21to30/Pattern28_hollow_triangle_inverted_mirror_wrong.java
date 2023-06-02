@@ -1,6 +1,6 @@
 package star21to30;
 
-public class Pattern28_hollow_triangle_inverted_mirror {
+public class Pattern28_hollow_triangle_inverted_mirror_wrong {
     public static void main(String[] args) {
         int rows = 5;
         starPrint(rows);
