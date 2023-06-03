@@ -8,8 +8,8 @@ public class Pattern33_multiple_triangle {
 
     //needs correction - third row should have 5 stars
     private static void starPrint(int columns) {
-        int k1 = 3;
-        int k2 = 3;
+        int k1 = 4;
+        int k2 = 4;
         int gap = 7;
 
         //outer loop to handle the row
@@ -33,8 +33,8 @@ public class Pattern33_multiple_triangle {
                 k1 = 1;
                 k2 = (columns * columns);
             } else {
-                k1 = 3;
-                k2 = 3;
+                k1 = 4;
+                k2 = 4;
                 k1--;
                 k2++;
             }
